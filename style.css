@@ -1,0 +1,19 @@
+body {
+    background-image: url("/images/joshua-woroniecki-UNSs8TXxQ1c-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+/* card section */
+.todo__card {
+  width: 400px;
+  margin: 100px auto 0 auto;
+}
+/* footer-button section */
+.button {
+  width: 130px;
+  height: 38px;
+}
+.button__title {
+  font-size: 18px;
+}
+/* finished */
